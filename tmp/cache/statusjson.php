@@ -1,0 +1,1 @@
+[{"statusid":"0","statusname":"\u7b49\u5f85\u5ba1\u6838"},{"statusid":"1","statusname":"\u521d\u5ba1"},{"statusid":"2","statusname":"\u4e13\u5bb6\u5ba1\u6838"},{"statusid":"3","statusname":"\u4fee\u6539\u540e\u91c7\u7528"},{"statusid":"4","statusname":"\u9000\u7a3f"},{"statusid":"5","statusname":"\u4fee\u6539\u540e\u518d\u5ba1"},{"statusid":"6","statusname":"\u91c7\u7528"}]
